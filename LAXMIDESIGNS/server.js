@@ -37,7 +37,11 @@ app.post("/enquiry", (req, res) => {
     phone: req.body.phone,
     course: req.body.course,
     message: req.body.message,
-    date: new Date().toLocaleString()
+    date: new Date().toLocaleString("en-IN", {
+  timeZone: "Asia/Kolkata",
+  dateStyle: "medium",
+  timeStyle: "short"
+})
   });
 
   saveData(data);
