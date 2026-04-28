@@ -1,0 +1,25 @@
+{
+  "enquiries": [
+    {
+      "name": "lakshya",
+      "phone": "98",
+      "course": "ji",
+      "message": "hi",
+      "date": "28/4/2026, 1:06:14 pm"
+    },
+    {
+      "name": "lakshya",
+      "phone": "7878771796",
+      "course": "Certificate",
+      "message": "ee",
+      "date": "28/4/2026, 1:19:01 pm"
+    },
+    {
+      "name": "Raj rakesh",
+      "phone": "7878771796",
+      "course": "Book / Magazine Cover",
+      "message": "",
+      "date": "28/4/2026, 1:20:58 pm"
+    }
+  ]
+}
